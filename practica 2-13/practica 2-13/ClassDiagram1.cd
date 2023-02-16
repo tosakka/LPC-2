@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="practica_2_13.Libro">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAACAAAAAAAAAAAACAAAAAAAABIAIAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Usuario">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACCAAAAAAAAAAAAAACAAAAAABAAAgI=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Bibliotecario">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAIACAAAAAAAAAAAAAAACAAAAAAAAAAgI=</HashCode>
+      <FileName>Bibliotecario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Prestamo">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAABAAAAAACAAAQAAAAAAAABAAAAAAAgA=</HashCode>
+      <FileName>Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Multa">
+    <Position X="2.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAIAAAAgA=</HashCode>
+      <FileName>Multa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Biblioteca">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAAAAAAACAIAAAAAAAACI=</HashCode>
+      <FileName>Biblioteca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Reserva">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Reserva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Autor">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACAAAAAAAAAAAAiAAAAAAAAABAAAgA=</HashCode>
+      <FileName>Autor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Editorial">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACEAAAAAAAAAAAAAACAAAAAAAAAAgI=</HashCode>
+      <FileName>Editorial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica_2_13.Genero">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAADAAAUAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Genero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
