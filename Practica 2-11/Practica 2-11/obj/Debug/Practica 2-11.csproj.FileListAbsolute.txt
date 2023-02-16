@@ -1,0 +1,8 @@
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\bin\Debug\Practica 2-11.exe.config
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\bin\Debug\Practica 2-11.exe
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\bin\Debug\Practica 2-11.pdb
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\obj\Debug\Practica 2-11.csproj.AssemblyReference.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\obj\Debug\Practica 2-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\obj\Debug\Practica 2-11.csproj.CoreCompileInputs.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\obj\Debug\Practica 2-11.exe
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Practica 2\Practica 2-11\Practica 2-11\obj\Debug\Practica 2-11.pdb
